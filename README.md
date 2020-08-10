@@ -1,2 +1,2 @@
 # ps-tools
-my personal collection of useful PowerShell-functions
+#### i will provide useful PowerShell functions in this repository
