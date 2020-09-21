@@ -1,2 +1,7 @@
 # ps-tools
-#### i will provide useful PowerShell functions in this repository
+This repository will provide useful PowerShell functions.
+
+_Some functions will be added shortly_
+
+## Stars over time
+[![Stargazers over time](https://starchart.cc/Hope-IT-Works/ps-tools.svg)](https://starchart.cc/Hope-IT-Works/ps-tools)
